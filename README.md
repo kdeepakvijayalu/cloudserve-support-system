@@ -1,7 +1,7 @@
 # CloudServe Support System — Automated Triage, Grounded Response & Escalation Pipeline
 
 **Author:** Deepak Vijayalu Krishnamurthy  
-**Submission Deadline:** 22 November 2026, 11:59 PM IST  
+
 
 ---
 
